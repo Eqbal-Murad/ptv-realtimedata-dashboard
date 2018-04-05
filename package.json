@@ -1,0 +1,23 @@
+{
+  "name": "ptv-realtimedata-dashboard",
+  "version": "1.0.0",
+  "description": "Project to fetch Melbourne public transport real time data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eqbal-Murad/ptv-realtimedata-dashboard.git"
+  },
+  "author": "Eqbal Murad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eqbal-Murad/ptv-realtimedata-dashboard/issues"
+  },
+  "homepage": "https://github.com/Eqbal-Murad/ptv-realtimedata-dashboard#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "request": "^2.85.0"
+  }
+}
